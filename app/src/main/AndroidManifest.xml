@@ -22,7 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".QRScannerActivity"></activity>
+        <activity android:name=".QRScannerActivity" />
+        <activity android:name=".LogInSignUp"></activity>
     </application>
 
 </manifest>
